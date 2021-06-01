@@ -43,7 +43,6 @@ class Main {
       default:
       echo "\nErro: Não existe a funcionalidade $operacao\n";
     }
-
   }
 
   private function listarUsuarios() {
